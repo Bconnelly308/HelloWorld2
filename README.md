@@ -11,5 +11,5 @@ Assignment for Software Architect and Design - Fall 2 2020
 - Open the terminal
 - Make a directory for the project ```mkdir lab5test```
 - Go to directory ``` cd lab5test
-- Clone the repository ```git clone https://github.com/Bconnelly308/HelloWorld.git```
+- Clone the repository ```git clone https://github.com/Bconnelly308/HelloWorld2.git```
 - Create a virtual environment ```python3 -m venv env```
