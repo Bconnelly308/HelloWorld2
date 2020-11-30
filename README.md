@@ -10,7 +10,7 @@ Assignment for Software Architect and Design - Fall 2 2020
 ## How to Run in Linux
 - Open the terminal
 - Make a directory for the project ```mkdir lab5test```
-- Go to directory ``` cd lab5test
+- Go to directory ```cd lab5test```
 - Clone the repository ```git clone https://github.com/Bconnelly308/HelloWorld2.git```
 -View the current directory ```pwd```
 - Create a virtual environment ```python3 -m venv *insert pwd result*```
