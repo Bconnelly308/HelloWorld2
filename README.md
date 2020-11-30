@@ -13,3 +13,6 @@ Assignment for Software Architect and Design - Fall 2 2020
 - Go to directory ``` cd lab5test
 - Clone the repository ```git clone https://github.com/Bconnelly308/HelloWorld2.git```
 - Create a virtual environment ```python3 -m venv env```
+- Activate the virtual environment ```source env/bin/activate```
+- Install Django ```pip install django```
+- To Run ```python manage.py runserver```
